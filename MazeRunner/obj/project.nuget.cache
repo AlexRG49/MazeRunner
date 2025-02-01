@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Oxmqzep+Pc=",
+  "success": true,
+  "projectFilePath": "C:\\A\\S\\Ayrg-c112\\MiJuego.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexy\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

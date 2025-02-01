@@ -1,0 +1,17 @@
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.AssemblyInfoInputs.cache
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.AssemblyInfo.cs
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.csproj.CoreCompileInputs.cache
+C:\A\S\MiJuego\bin\Debug\net8.0\MiJuego.exe
+C:\A\S\MiJuego\bin\Debug\net8.0\MiJuego.deps.json
+C:\A\S\MiJuego\bin\Debug\net8.0\MiJuego.runtimeconfig.json
+C:\A\S\MiJuego\bin\Debug\net8.0\MiJuego.dll
+C:\A\S\MiJuego\bin\Debug\net8.0\MiJuego.pdb
+C:\A\S\MiJuego\bin\Debug\net8.0\Spectre.Console.dll
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.csproj.AssemblyReference.cache
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.csproj.Up2Date
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.dll
+C:\A\S\MiJuego\obj\Debug\net8.0\refint\MiJuego.dll
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.pdb
+C:\A\S\MiJuego\obj\Debug\net8.0\MiJuego.genruntimeconfig.cache
+C:\A\S\MiJuego\obj\Debug\net8.0\ref\MiJuego.dll
